@@ -1,2 +1,3 @@
-# DDOS-
-for ddos attacks
+# WIRE-SHARK NOTES BY ALPHA
+WIRE SHARK PDF NOTES
+
